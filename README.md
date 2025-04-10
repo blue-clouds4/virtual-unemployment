@@ -19,4 +19,7 @@ well whatever happened, it happened. ill be working on the project in godot or s
 [!WARNING]
 mounting dosbox in c drive is not recommended 
 
-- `cd` to the location with `cd <location of your dos box game files`
+- `cd` to the location where your dosbox files are stored. example: cd D:\harsha\dosgames
+- to run the game file(idt i would call it game) use: unemployed.exe
+<br>
+now the file runs :D
