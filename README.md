@@ -10,7 +10,7 @@ this is a dosbox game made by an unemployed 16 year old.
 well whatever happened, it happened. ill be working on the project in godot or something i guess. 
 
 
-## how do i run this gane?
+## how do i run this game?
 
 - install [dosbox](https://www.dosbox.com/download.php?main=1)
 - open your dos box
