@@ -16,10 +16,16 @@ well whatever happened, it happened. ill be working on the project in godot or s
 - open your dos box
 - mount the drive you want to use in dosbox with `mount <your preffered drive name in dosbox> <your drive name in your pc where your dosbox files are>`
 <br>example: `mount c c:\'
-[!WARNING]
-mounting dosbox in c drive is not recommended 
+<br>
 
+![Warning](https://img.shields.io/badge/%E2%9A%A0%20WARNING-Critical-orange?style=for-the-badge)
+
+Using `C:\` of your PC is not recommended as a DOSBox drive.
+
+
+<br>
 - `cd` to the location where your dosbox files are stored. example: cd D:\harsha\dosgames
+<br>
 - to run the game file(idt i would call it game) use: unemployed.exe
 <br>
 now the file runs :D
